@@ -1,0 +1,9 @@
+.LogoList {
+	padding: 10px 10px 0;
+	display: flex;
+}
+
+.LogoList i {
+	margin-right: 5px;
+	color: #fff;
+}

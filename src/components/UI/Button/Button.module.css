@@ -1,0 +1,16 @@
+.Button {
+	background-color: #202020;
+	padding: 15px 40px;
+	color: #fff;
+	font-size: 16px;
+	border-radius: 8px;
+	border: none;
+	margin-bottom: 30px;
+	cursor: pointer;
+	transition: 0.3s ease-out;
+}
+
+.Button:hover {
+	background-color: #fff;
+	color: #202020;
+}

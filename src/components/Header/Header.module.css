@@ -1,0 +1,14 @@
+.Header h1 {
+	color: #fff;
+	font-size: 70px;
+	text-align: start;
+	margin: 20px 0 5px;
+}
+
+.Header h4 {
+	margin: 0;
+	color: #fff;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: start;
+}
